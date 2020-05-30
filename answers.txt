@@ -1,0 +1,10 @@
+Question 1:
+Takes 5 iterations to converge.
+
+Question 2:
+s1->s2->s5->s6->s3
+
+Question 3:
+Yes. As the reward between s6 to s3 will remains unchanged after
+ the first iteration you can change it and it will remain the
+  optimal path for s6.
